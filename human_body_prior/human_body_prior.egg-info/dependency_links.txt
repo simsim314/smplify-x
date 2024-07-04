@@ -1,0 +1,1 @@
+https://github.com/nghorbani/configer/tarball/1.4.1#egg=configer-1.4.1

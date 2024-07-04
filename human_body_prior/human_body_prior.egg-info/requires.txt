@@ -1,0 +1,11 @@
+torch
+tensorboardX>=1.6
+torchgeometry==0.1.2
+opencv-python>=4.1.0.25
+configer
+imageio>=2.5.0
+transforms3d>=0.3.1
+trimesh
+smplx
+pyrender
+moviepy
