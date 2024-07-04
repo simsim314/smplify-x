@@ -38,7 +38,7 @@ from fit_single_frame import fit_single_frame
 from camera import create_camera
 from prior import create_prior
 
-torch.backends.cudnn.enabled = False
+# torch.backends.cudnn.enabled = False
 
 
 def main(**args):
